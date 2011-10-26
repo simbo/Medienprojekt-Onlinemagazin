@@ -2,7 +2,7 @@
 Medienprojekt-Onlinemagazin
 ===
 
-A new project...
+A study project...
 
 Author: Simon Lepel  
 License: GPL
